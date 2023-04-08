@@ -4,7 +4,4 @@ const app = express();
 
 app.listen(2000, ()=>{
     console.log('port working')
-})
-
-
-//hello
+});
